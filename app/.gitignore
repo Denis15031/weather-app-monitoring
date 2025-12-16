@@ -1,0 +1,13 @@
+# Бинарники
+/weather-app
+*.exe
+
+# Логи
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Docker (volume не коммитим!)
+grafana-storage/
